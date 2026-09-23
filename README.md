@@ -31,8 +31,4 @@
 
 ---
 
-### 📊 Estadísticas de GitHub (GitHub Stats)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benx15&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benx15&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" />
-</p>
+
